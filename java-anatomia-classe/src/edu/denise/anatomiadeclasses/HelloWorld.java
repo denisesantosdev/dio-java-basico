@@ -3,7 +3,15 @@ package edu.denise.anatomiadeclasses;
 
 public class HelloWorld {
     public static void main (String [] args) {
-        System.out.print("Hello, World!");
+        //classe Operadores.java
+        String nomeCompleto = "LINGUAGEM" + "JAVA";
+                
+        //qual o resultado das expressoes abaixo?
+        int concatenacao = 0; 
+
+        concatenacao = 1+1+1;
+
+        System.out.print(concatenacao);
     }    
 }
 
